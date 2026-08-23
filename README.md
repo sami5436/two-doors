@@ -2,6 +2,8 @@
 
 Underwriting duplexes in Dallas and Houston.
 
+**Live at [two-doors-chi.vercel.app](https://two-doors-chi.vercel.app)**
+
 A working set of numbers for buying a two unit property in Texas and living in half of it. Built to
 answer one question: whether a part time landlord starting with a single duplex is better off in
 Dallas Fort Worth or in Houston, and whether either works at current rates.
